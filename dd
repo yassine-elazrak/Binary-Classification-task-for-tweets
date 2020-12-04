@@ -1,0 +1,13 @@
+fin_ratian
+[[543  77]
+ [ 44 641]]
+              precision    recall  f1-score   support
+
+           0       0.93      0.88      0.90       620
+           1       0.89      0.94      0.91       685
+
+    accuracy                           0.91      1305
+   macro avg       0.91      0.91      0.91      1305
+weighted avg       0.91      0.91      0.91      1305
+
+0.90727969348659
